@@ -16,9 +16,9 @@ I like chicken, and it's mostly because the other guy does too.
 - ⚡ Fun fact: I like chicken
 
 ### Things I am working on
-| stuff over here | stuff over there |
+| **stuff over here** | **stuff over there** |
 | --- | --- | 
-|[CultOS] A simple Arch Linux based OS<br> [CultBot] A simple Discord bot<br> | [CultSite]  A simple website<br>  [CultApp]A simple app that likes chicken just as much as the next guy oh yeah oh yeah oh yeah oh yeah  |
+|[CultOS] A simple Arch Linux based OS oh yeah oh yeah oh yeah oh eayh lkjchchckens chickens mmmm delicious chickens i love delicious chickens<br> [CultBot] A simple Discord bot<br> | [CultSite]  A simple website<br>  [CultApp]A simple app that likes chicken just as much as the next guy oh yeah oh yeah oh yeah oh yeah  |
 
 
 | **Nix** | **Go, Python, Rust, Javascript, Typescript, Java** |

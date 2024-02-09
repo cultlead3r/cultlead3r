@@ -24,6 +24,13 @@ I like chicken, and it's mostly because the other guy does too.
 | [CultApp] | A simple app | 
 ---
 
+
+| **Nix** | **Go, Python, Rust, Javascript, Typescript, Java** |
+| --- | --- |
+| • [neovim-flake](https://github.com/notashelf/neovim-flake) - no-nonsense, highly extensible neovim configuration packaged through a nix flake<br>• [Nyx](https://github.com/notashelf/nyx) - the first child of Chaos and also an alias for my configuration for the ultimate declarative Linux distro, NixOS!<br>• [Nyxpkgs](https://github.com/notashelf/nyxkgs) - collection of packages not found in Nixpkgs<br>• [arrpc-flake](https://github.com/NotAShelf/arrpc-flake) - Nix flake providing arRPC package and a convenient Home-manager module<br>• [Schizofox](https://github.com/schizofox/schizofox) - privacy and security oriented Firefox configuration for Home-manager | • [Docr](https://github.com/notashelf/docr) - barebones static site generator in Go<br>• [CatApi](https://github.com/notashelf/catApi) - minimal API for serving pictures of your cats with a convenient frontend<br>• [Hyprkeys](https://github.com/hyprland-community/Hyprkeys) - powerful and easy to use keyboard utility designed for my favorite Wayland Compositor, Hyprland<br>• [Batmon](https://github.com/notashelf/batmon) - dead simple battery monitor service for Linux<br>• [Goblin](https://github.com/notashelf/goblin) - termbin-inspired paste service to replace Fiche<br>• [mdlinkt](https://github.com/notashelf/mdlinkt) - blazing fast markdown link checker, in Go<br>• [httpserve](https://github.com/notashelf/httpserve) - simple utility for serving data straight from STDIN<br>• [NFF](https://github.com/notashelf/nff) - experimental formatter client for Nftables<br>• [grimblast-rs](https://github.com/notashelf/grimblast-rs) - An alternative implementation of Grimblast in Rust<br>• [Fylgja](https://github.com/hyprland-community/Fylgja) - cross-distro package manager and convenience utility |
+
+
+
 #### 📫 contact 
 
 <p align="center">

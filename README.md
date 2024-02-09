@@ -25,7 +25,7 @@ I like chicken, and it's mostly because the other guy does too.
 
 | **Chickens** | 
 | --- | 
-kraken - a chicken
+kraken - a chicken<br>
 asdf - asdfasdf
 ---
 

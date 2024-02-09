@@ -11,7 +11,7 @@ I like chicken, and it's mostly because the other guy does too.
 - 👯 I’m looking to collaborate on anything that's interesting
 - 🤔 I’m looking for help with Rust
 - 💬 Ask me about anything
-- 📫 How to reach me: [Discord](https://discord.gg/9qARaK6D)
+- 📫 How to reach me: <a href=https://github.com/cultlead3r#-contact>socials</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like chicken
 

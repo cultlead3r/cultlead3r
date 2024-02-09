@@ -60,7 +60,7 @@ async def generate_languages(s: Stats) -> None:
     progress = ""
     lang_list = ""
     sorted_languages = sorted(
-        (await s.languages).items(), reverse=True, key=lambda t: t[1].get("size")
+        (await s.languages).items(), reverse=True, key=lambda t: t[1].get("occurrences")
     )
     delay_between = 150
     for i, (lang, data) in enumerate(sorted_languages):

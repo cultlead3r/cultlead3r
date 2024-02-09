@@ -20,17 +20,9 @@ I like chicken, and it's mostly because the other guy does too.
 - ⚡ Fun fact: I like chicken
 
 ### Things I am working on
-
-| Header |
-|--------|
-| Row 1  |
-| Row 2  |
-| Row 3  |
-
-
-`Row 1`  
-`Row 2`  
-`Row 3`  
+| **here** | **there** |
+| --- | --- |
+| • [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot | • [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot |
 
 
 #### 📫 contact

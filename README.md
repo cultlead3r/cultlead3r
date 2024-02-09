@@ -28,6 +28,9 @@ I like chicken, and it's mostly because the other guy does too.
 | Row 3  |
 
 
+`Row 1`  
+`Row 2`  
+`Row 3`  
 
 
 #### 📫 contact

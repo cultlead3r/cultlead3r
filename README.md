@@ -4,7 +4,7 @@
     <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code>
 </p>
 
-### 💻 Languages and Tools
+### If you want to make an omelette, you gotta crack some eggs 
 
 <p align="center">
   <code><img title="Python" height="40" width="40" src="../main/.github/assets/icons/python-original.svg"></code>
@@ -14,8 +14,6 @@
   <code><img title="VueJS" height="40" width="40" src="../main/.github/assets/icons/vuejs-original-wordmark.svg"></code>
   <code><img title="SQL" height="40" width="40" src="../main/.github/assets/icons/sql.png"></code>
   <code><img title="Rust" height="40" width="40" src="../main/.github/assets/icons/rust.svg"></code>
-</p>
-<p align="center">
 </p>
 
 <p align="center">

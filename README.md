@@ -1,9 +1,7 @@
 <p align="center">
-    <code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/TS6w3TYZRM"></code>
-    <code><img title="Twitter" height="40" width="40" src="https://simpleicons.now.sh/twitter/5175BF" href="https://twitter.com/NotAShelf"></code>
-    <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:me@notashelf.dev"></code>
-    <code><img title="Mastodon" height="40" width="40" src="https://simpleicons.now.sh/mastodon/5175BF" href="https://social.notashelf.dev/@raf"></code>
-    <code><img title="Matrix" height="40" width="40" src="https://simpleicons.vercel.app/matrix/5175BF" href="https://matrix.to/#/@raf:notashelf.dev"></code>
+    <code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code>
+    <code><img title="Twitter" height="40" width="40" src="https://simpleicons.now.sh/twitter/5175BF" href="https://twitter.com/cultlead3r"></code>
+    <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code>
 </p>
 
 ### 💻 Languages and Tools
@@ -44,7 +42,7 @@
   <code><img title="Terminal" height="40" width="40" src="../main/.github/assets/icons/terminal.png"></code>
   <code><img title="Docker" height="40" width="40" src="../main/.github/assets/icons/docker.png"></code>
   <code><img title="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-  <code><img title="Arch btw" height="40" width="40" src="../main/.github/assets/icons/arch.svg" href="https://aur.archlinux.org/account/notashelf"></code>
+  <code><img title="Arch btw" height="40" width="40" src="../main/.github/assets/icons/arch.svg"></code>
   <code><img title="Nix/NixOS" height="40" width="40" src="../main/.github/assets/icons/nix-snowflake.svg"></code>
 </p>
 

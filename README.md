@@ -24,6 +24,7 @@ I like chicken, and it's mostly because the other guy does too.
 
 
 | **Chickens** | **Krakens** |
+| --- | --- |
 | • [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot |
 | • [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot |
 

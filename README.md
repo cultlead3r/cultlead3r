@@ -2,7 +2,7 @@
 
 ### About Me
 
-I like chicken just as much as the next guy.
+I like chicken just as much as the next guy. I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy
 
 
 #### 📫 contact 

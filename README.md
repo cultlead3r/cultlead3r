@@ -1,11 +1,12 @@
-  <code><img title="Discord" height="25" width="25" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D">
+<p>
+<code><img title="Discord" height="25" width="25" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D">
     <a href="https://discord.gg/9qARaK6D">discord</a>
   </code>
-    <code><img title="Telegram" height="25" width="25" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r">
+<code><img title="Telegram" height="25" width="25" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r">
     <a href="https://t.me/cultlead3r">telegram</a></code>
-  <code><img title="Mail Me" height="25" width="25" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me">
+<code><img title="Mail Me" height="25" width="25" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me">
     <a href="mailto:cultleader@cultleader.me">email</a></code>
-
+</p>
 ### If you want to make an omelette ...
 
 <p align="center">

@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <code><img title="Discord" height="25" width="25" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D">
     <a href="https://discord.gg/9qARaK6D">discord</a>
   </code>

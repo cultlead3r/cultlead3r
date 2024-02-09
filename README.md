@@ -1,10 +1,15 @@
-<p align="center">
+<p>
     <code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code>
+    <a href="https://discord.gg/9qARaK6D">discord</a>
+    </p>
   <p>  
     <code><img title="Telegram" height="40" width="40" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r"></code>
-    <a href="https://t.me/cultlead3r">Telegram </a>
+    <a href="https://t.me/cultlead3r">telegram</a>
     </p>
+    <p>
     <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code>
+    <a href="mailto:cultleader@cultleader.me">email</a>
+    </p>
 </p>
 
 ### If you want to make an omelette ... 

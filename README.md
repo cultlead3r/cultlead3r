@@ -1,26 +1,18 @@
-<p align="center">
-
-
-
 <p>
-  <code><img title="Discord" height="25" width="25" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D">
+    <code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code>
     <a href="https://discord.gg/9qARaK6D">discord</a>
-  </code>
-</p>
-<p>
-<code><img title="Telegram" height="25" width="25" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r">
-    <a href="https://t.me/cultlead3r">telegram</a></code>
     </p>
-<p>
-<code><img title="Mail Me" height="25" width="25" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me">
-    <a href="mailto:cultleader@cultleader.me">email</a></code>
+  <p>  
+    <code><img title="Telegram" height="40" width="40" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r"></code>
+    <a href="https://t.me/cultlead3r">telegram</a>
+    </p>
+    <p>
+    <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code>
+    <a href="mailto:cultleader@cultleader.me">email</a>
+    </p>
 </p>
 
-
-</p>
-
-
-### If you want to make an omelette ...
+### If you want to make an omelette ... 
 
 <p align="center">
   <code><img title="Python" height="40" width="40" src="../main/.github/assets/icons/python-original.svg"></code>
@@ -44,8 +36,8 @@
 
 
 <p align="center">
-  <img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/overview.svg#gh-dark-mode-only />
-  <img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/overview.svg#gh-light-mode-only />
-  <img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/languages.svg#gh-dark-mode-only />
-  <img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/languages.svg#gh-light-mode-only />
+<img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/overview.svg#gh-dark-mode-only />
+<img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/overview.svg#gh-light-mode-only />
+<img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/languages.svg#gh-dark-mode-only />
+<img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/languages.svg#gh-light-mode-only />
 </p>

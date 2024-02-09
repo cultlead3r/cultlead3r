@@ -1,5 +1,5 @@
 
-<h4>contact </h4>
+<h4>📫 contact </h4>
 <p align="center">
     <a href="https://discord.gg/9qARaK6D"><code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code></a>
     <a href="https://t.me/cultlead3r"><code><img title="Telegram" height="40" width="40" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r"></code></a>

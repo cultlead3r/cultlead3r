@@ -1,4 +1,9 @@
-### some other stuff
+## Meow btw. If you even care. 
+
+### About Me
+
+I like chicken just as much as the next guy.
+
 
 #### 📫 contact 
 

@@ -4,7 +4,7 @@
     <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code>
 </p>
 
-### If you want to make an omelette, you gotta crack some eggs 
+### If you want to make an omelette ... 
 
 <p align="center">
   <code><img title="Python" height="40" width="40" src="../main/.github/assets/icons/python-original.svg"></code>

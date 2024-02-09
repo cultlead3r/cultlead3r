@@ -51,7 +51,8 @@ class Queries(object):
             result = await r_async.json()
             if result is not None:
                 return result
-        except:
+        except Exception as e:
+            print(e)
             print("aiohttp failed for GraphQL query")
             # Fall back on non-async requests
             async with self.semaphore:
@@ -91,14 +92,16 @@ class Queries(object):
                 if r_async.status == 202:
                     # print(f"{path} returned 202. Retrying...")
                     print(f"A path returned 202. Retrying...")
+                    print(f"Path: {path}")
                     await asyncio.sleep(2)
                     continue
 
                 result = await r_async.json()
                 if result is not None:
                     return result
-            except:
+            except Exception as e:
                 print("aiohttp failed for rest query")
+                print(e)
                 # Fall back on non-async requests
                 async with self.semaphore:
                     r_requests = requests.get(
@@ -341,6 +344,7 @@ Languages:
                 if repo is None:
                     continue
                 name = repo.get("nameWithOwner")
+                print(name)
                 if name in self._repos or name in self._exclude_repos:
                     continue
                 self._repos.add(name)

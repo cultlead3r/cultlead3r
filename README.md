@@ -23,8 +23,8 @@ I like chicken, and it's mostly because the other guy does too.
 
 | stuff im working on |
 | --- |
-Kraken - a simple fast and secure chickenhammer 
-CultOS - a simple Arch Linux based OS
+- Kraken - a simple fast and secure chickenhammer 
+- CultOS - a simple Arch Linux based OS
 ---
 
 

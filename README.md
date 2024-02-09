@@ -21,13 +21,11 @@ I like chicken, and it's mostly because the other guy does too.
 
 ### Things I am working on
 
-| stuff im working on |
-| --- |
-- Kraken - a simple fast and secure chickenhammer 
-- CultOS - a simple Arch Linux based OS
----
-
-
+| Header |
+|--------|
+| Row 1  |
+| Row 2  |
+| Row 3  |
 
 
 

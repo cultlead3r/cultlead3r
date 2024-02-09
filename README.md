@@ -16,12 +16,12 @@ I like chicken, and it's mostly because the other guy does too.
 - ⚡ Fun fact: I like chicken
 
 ### Things I am working on
-| Project | Description | Status |
-| --- | --- | --- |
-| [CultOS] | A simple Arch Linux based OS | `WIP` |
-| [CultBot] | A simple Discord bot | `WIP` |
-| [CultSite] | A simple website | `WIP` |
-| [CultApp] | A simple app | `WIP` |
+| Project | Description |
+| --- | --- | 
+| [CultOS] | A simple Arch Linux based OS |
+| [CultBot] | A simple Discord bot |
+| [CultSite] | A simple website |
+| [CultApp] | A simple app | 
 ---
 
 #### 📫 contact 

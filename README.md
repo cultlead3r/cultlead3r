@@ -1,13 +1,13 @@
 <p>
-    <code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code>
+    <code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code><br>
     <a href="https://discord.gg/9qARaK6D">discord</a>
     </p>
   <p>  
-    <code><img title="Telegram" height="40" width="40" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r"></code>
+    <code><img title="Telegram" height="40" width="40" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r"></code><br>
     <a href="https://t.me/cultlead3r">telegram</a>
     </p>
     <p>
-    <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code>
+    <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code><br>
     <a href="mailto:cultleader@cultleader.me">email</a>
     </p>
 </p>

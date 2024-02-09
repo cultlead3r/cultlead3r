@@ -5,6 +5,16 @@
 I like chicken just as much as the next guy. I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy
 
 I like chicken just as much as the next guy. I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy
+
+I like chicken, and it's mostly because the other guy does too.
+- 🌱 I’m currently learning Rust and VueJS
+- 👯 I’m looking to collaborate on anything that's interesting
+- 🤔 I’m looking for help with Rust
+- 💬 Ask me about anything
+- 📫 How to reach me: [Discord](https://discord.gg/9qARaK6D)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like chicken
+
 #### 📫 contact 
 
 <p align="center">

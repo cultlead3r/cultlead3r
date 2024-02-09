@@ -18,11 +18,9 @@ I like chicken, and it's mostly because the other guy does too.
 ### Things I am working on
 | Project | Description |
 | --- | --- | 
-| [CultOS] | A simple Arch Linux based OS |
-| [CultBot] | A simple Discord bot |
-| [CultSite] | A simple website |
-| [CultApp] | A simple app | 
----
+|[CultOS] | A simple Arch Linux based OS<br> [CultBot] A simple Discord bot<br> |
+ [CultSite]  A simple website 
+ [CultApp]  A simple app  
 
 
 | **Nix** | **Go, Python, Rust, Javascript, Typescript, Java** |

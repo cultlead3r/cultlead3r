@@ -1,6 +1,5 @@
 <p align="center">
     <code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code>
-    <code><img title="Twitter" height="40" width="40" src="https://simpleicons.now.sh/twitter/5175BF" href="https://twitter.com/cultlead3r"></code>
     <code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code>
 </p>
 

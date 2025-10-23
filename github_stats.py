@@ -101,9 +101,14 @@ class Queries(object):
                     await asyncio.sleep(2)
                     continue
 
-                result = await r_async.json()
-                if result is not None:
-                    return result
+                # Only try to parse JSON for 200 responses
+                if r_async.status == 200:
+                    result = await r_async.json()
+                    if result is not None:
+                        return result
+
+                # For any other status, return empty dict
+                return dict()
             except Exception as e:
                 # Check if it's a 204 response causing JSON decode error
                 if "204" in str(e) or "No Content" in str(e):

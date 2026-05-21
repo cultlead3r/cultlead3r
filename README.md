@@ -9,7 +9,7 @@ I take the vapor of nuance and condense it into fact.
 - Studying language, infrastructure, networks, and myth
 - Building tools for the people who live near the edge cases
 
-#### contact
+<h4 align="center">contact</h4>
 
 <p align="center">
   <a

@@ -1,7 +1,5 @@
 ## Meow btw. If you even care.
 
-### About Me
-
 I work in the static between decaying signals and collapsing mythologies, where machines have learned to lie.
 
 I take the vapor of nuance and condense it into fact.
@@ -11,13 +9,7 @@ I take the vapor of nuance and condense it into fact.
 - Studying language, infrastructure, networks, and myth
 - Building tools for the people who live near the edge cases
 
-### Things I am working on
-| **here** | **there** |
-| --- | --- |
-| • [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot | • [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot<br>• [poultry inspector](https://poultry.com) - no-nonsense poultry inspecting tool that you'll like a lot |
-
-
-#### 📫 contact
+#### contact
 
 <p align="center">
   <a
@@ -27,29 +19,6 @@ I take the vapor of nuance and condense it into fact.
   <a
     href="mailto:cultleader@cultleader.me"><code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code></a>
 </p>
-
-### If you want to make an omelette ...
-
-<p align="center">
-  <code><img title="Python" height="40" width="40" src="../main/.github/assets/icons/python-original.svg"></code>
-  <code><img title="Bash" height="40" width="40" src="../main/.github/assets/icons/bash.png"></code>
-  <code><img title="JavaScript" height="40" width="40" src="../main/.github/assets/icons/Javascript.png"></code>
-  <code><img title="NodeJS" height="40" width="40" src="../main/.github/assets/icons/nodejs.png"></code>
-  <code><img title="VueJS" height="40" width="40" src="../main/.github/assets/icons/vuejs-original-wordmark.svg"></code>
-  <code><img title="SQL" height="40" width="40" src="../main/.github/assets/icons/sql.png"></code>
-  <code><img title="Rust" height="40" width="40" src="../main/.github/assets/icons/rust.svg"></code>
-</p>
-
-<p align="center">
-  <code><img title="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-  <code><img title="Arch btw" height="40" width="40" src="../main/.github/assets/icons/arch.svg"></code>
-  <code><img title="Visual Studio Code" height="40" width="40" src="../main/.github/assets/icons/vscode.png"></code>
-  <code><img title="(Neo)Vim" height="40" width="40" src="../main/.github/assets/icons/vim.png"></code>
-  <code><img title="Git" height="40" width="40" src="../main/.github/assets/icons/git-original.svg"></code>
-  <code><img title="Terminal" height="40" width="40" src="../main/.github/assets/icons/terminal.png"></code>
-  <code><img title="Docker" height="40" width="40" src="../main/.github/assets/icons/docker.png"></code>
-</p>
-
 
 <p align="center">
   <img src=https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/overview.svg#gh-dark-mode-only />

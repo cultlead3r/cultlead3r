@@ -1,5 +1,3 @@
-## Meow btw. If you even care.
-
 I work in the static between decaying signals and collapsing mythologies, where machines have learned to lie.
 
 I take the vapor of nuance and condense it into fact.

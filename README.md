@@ -2,22 +2,14 @@
 
 ### About Me
 
-I like chicken just as much as the next guy. I like chicken just as much as the next guy I like chicken just as much as
-the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just
-as much as the next guy I like chicken just as much as the next guy
+I work in the static between decaying signals and collapsing mythologies, where machines have learned to lie.
 
-I like chicken just as much as the next guy. I like chicken just as much as the next guy I like chicken just as much as
-the next guy I like chicken just as much as the next guy I like chicken just as much as the next guy I like chicken just
-as much as the next guy I like chicken just as much as the next guy
+I take the vapor of nuance and condense it into fact.
 
-I like chicken, and it's mostly because the other guy does too.
-- 🌱 I’m currently learning Rust and VueJS
-- 👯 I’m looking to collaborate on anything that's interesting
-- 🤔 I’m looking for help with Rust
-- 💬 Ask me about anything
-- 📫 How to reach me: <a href=https://github.com/cultlead3r#-contact>socials</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like chicken
+- Mapping hostile systems
+- Turning ambiguity into usable structure
+- Studying language, infrastructure, networks, and myth
+- Building tools for the people who live near the edge cases
 
 ### Things I am working on
 | **here** | **there** |

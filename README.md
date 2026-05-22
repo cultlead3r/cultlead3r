@@ -6,13 +6,13 @@
 
 <p align="center">
   <a
-    href="https://discord.gg/aGR5jsTeWW"><img alt="Discord" src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=discord&logoColor=00f0ff&labelColor=05070c&color=d14fff"></a>
+    href="https://discord.gg/aGR5jsTeWW"><img alt="Discord" title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/d14fff"></a>
   <a
-    href="https://t.me/cultlead3r"><img alt="Telegram" src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=telegram&logoColor=00f0ff&labelColor=05070c&color=5175bf"></a>
+    href="https://t.me/cultlead3r"><img alt="Telegram" title="Telegram" height="40" width="40" src="https://simpleicons.vercel.app/telegram/5175bf"></a>
   <a
-    href="https://twitter.com/cultlead3r"><img alt="Twitter" src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff&labelColor=05070c&color=00f0ff"></a>
+    href="https://twitter.com/cultlead3r"><img alt="X" title="X" height="40" width="40" src="https://simpleicons.vercel.app/x/00f0ff"></a>
   <a
-    href="mailto:cultleader@cultleader.me"><img alt="Email" src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=protonmail&logoColor=00f0ff&labelColor=05070c&color=30363d"></a>
+    href="mailto:cultleader@cultleader.me"><img alt="Email" title="Email" height="40" width="40" src="https://simpleicons.vercel.app/protonmail/8b949e"></a>
 </p>
 
 <p align="center">

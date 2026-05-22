@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/bio-v5.svg" />
 </p>
 
-<h4 align="center">contact</h4>
+<h4 align="center">meow btw. if you even care.</h4>
 
 <p align="center">
   <a

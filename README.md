@@ -6,11 +6,11 @@
 
 <p align="center">
   <a
-    href="https://discord.gg/9qARaK6D"><code><img title="Discord" height="40" width="40" src="https://simpleicons.vercel.app/discord/5175BF" href="https://discord.gg/9qARaK6D"></code></a>
+    href="https://discord.gg/aGR5jsTeWW"><img alt="Discord" src="https://img.shields.io/badge/comms-discord-0d1117?style=for-the-badge&logo=discord&logoColor=00f0ff&labelColor=05070c&color=d14fff"></a>
   <a
-    href="https://t.me/cultlead3r"><code><img title="Telegram" height="40" width="40" src="https://simpleicons.vercel.app/telegram/5175BF" href="https://t.me/cultlead3r"></code></a>
+    href="https://t.me/cultlead3r"><img alt="Telegram" src="https://img.shields.io/badge/relay-telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=00f0ff&labelColor=05070c&color=5175bf"></a>
   <a
-    href="mailto:cultleader@cultleader.me"><code><img title="Mail Me" height="40" width="40" src="https://simpleicons.vercel.app/gmail/5175BF" href="mailto:cultleader@cultleader.me"></code></a>
+    href="mailto:cultleader@cultleader.me"><img alt="Email" src="https://img.shields.io/badge/dead_drop-mail-0d1117?style=for-the-badge&logo=protonmail&logoColor=00f0ff&labelColor=05070c&color=30363d"></a>
 </p>
 
 <p align="center">

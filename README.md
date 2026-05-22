@@ -1,11 +1,6 @@
-I work in the static between decaying signals and collapsing mythologies, where machines have learned to lie.
-
-I take the vapor of nuance and condense it into fact.
-
-- Mapping hostile systems
-- Turning ambiguity into usable structure
-- Studying language, infrastructure, networks, and myth
-- Building tools for the people who live near the edge cases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/bio.svg" />
+</p>
 
 <h4 align="center">contact</h4>
 

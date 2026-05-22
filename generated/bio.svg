@@ -1,0 +1,63 @@
+<svg width="820" height="280" viewBox="0 0 820 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile bio</title>
+  <desc id="desc">A dark cyberpunk-styled rendering of the profile bio.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070c"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#130814"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5175bf" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#5175bf" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#d14fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.045"/>
+    </pattern>
+  </defs>
+
+  <rect width="820" height="280" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="818" height="278" rx="17" fill="none" stroke="#30363d"/>
+  <rect width="820" height="280" rx="18" fill="url(#scanlines)"/>
+
+  <g opacity="0.55">
+    <path d="M42 46 H778" stroke="url(#signal)" stroke-width="1"/>
+    <path d="M42 232 H778" stroke="url(#signal)" stroke-width="1"/>
+    <path d="M82 28 V252" stroke="#5175bf" stroke-width="1" opacity="0.18"/>
+    <path d="M738 28 V252" stroke="#d14fff" stroke-width="1" opacity="0.16"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    <text x="52" y="36" fill="#5175bf" font-size="11" letter-spacing="3" opacity="0.85">SIGNAL // MYTH // MACHINE</text>
+    <text x="52" y="74" fill="#e6edf3" font-size="20" font-weight="700">
+      <tspan x="52" dy="0">I work in the static between decaying signals</tspan>
+      <tspan x="52" dy="31">and collapsing mythologies, where machines</tspan>
+      <tspan x="52" dy="31">have learned to lie.</tspan>
+    </text>
+
+    <text x="52" y="176" fill="#d14fff" font-size="17" font-weight="700" filter="url(#glow)">
+      I take the vapor of nuance and condense it into fact.
+    </text>
+
+    <g fill="#8b949e" font-size="14">
+      <text x="68" y="216">↳ Mapping hostile systems</text>
+      <text x="68" y="239">↳ Turning ambiguity into usable structure</text>
+      <text x="414" y="216">↳ Studying language, infrastructure, networks, and myth</text>
+      <text x="414" y="239">↳ Building tools for the people who live near edge cases</text>
+    </g>
+  </g>
+
+  <g opacity="0.55" fill="none" stroke="#5175bf">
+    <path d="M720 62 l18 0 l0 18"/>
+    <path d="M100 218 l-18 0 l0 -18"/>
+  </g>
+</svg>

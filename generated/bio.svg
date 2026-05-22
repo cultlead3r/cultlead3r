@@ -1,4 +1,4 @@
-<svg width="820" height="280" viewBox="0 0 820 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="820" height="330" viewBox="0 0 820 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Profile bio</title>
   <desc id="desc">A dark cyberpunk-styled rendering of the profile bio.</desc>
 
@@ -25,15 +25,15 @@
     </pattern>
   </defs>
 
-  <rect width="820" height="280" rx="18" fill="url(#bg)"/>
-  <rect x="1" y="1" width="818" height="278" rx="17" fill="none" stroke="#30363d"/>
-  <rect width="820" height="280" rx="18" fill="url(#scanlines)"/>
+  <rect width="820" height="330" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="818" height="328" rx="17" fill="none" stroke="#30363d"/>
+  <rect width="820" height="330" rx="18" fill="url(#scanlines)"/>
 
   <g opacity="0.55">
     <path d="M42 46 H778" stroke="url(#signal)" stroke-width="1"/>
-    <path d="M42 232 H778" stroke="url(#signal)" stroke-width="1"/>
-    <path d="M82 28 V252" stroke="#5175bf" stroke-width="1" opacity="0.18"/>
-    <path d="M738 28 V252" stroke="#d14fff" stroke-width="1" opacity="0.16"/>
+    <path d="M42 282 H778" stroke="url(#signal)" stroke-width="1"/>
+    <path d="M82 28 V302" stroke="#5175bf" stroke-width="1" opacity="0.18"/>
+    <path d="M738 28 V302" stroke="#d14fff" stroke-width="1" opacity="0.16"/>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
@@ -49,15 +49,15 @@
     </text>
 
     <g fill="#8b949e" font-size="14">
-      <text x="68" y="216">↳ Mapping hostile systems</text>
-      <text x="68" y="239">↳ Turning ambiguity into usable structure</text>
-      <text x="414" y="216">↳ Studying language, infrastructure, networks, and myth</text>
-      <text x="414" y="239">↳ Building tools for the people who live near edge cases</text>
+      <text x="68" y="216">— Mapping hostile systems</text>
+      <text x="68" y="240">— Turning ambiguity into usable structure</text>
+      <text x="68" y="264">— Studying language, infrastructure, networks, and myth</text>
+      <text x="68" y="288">— Building tools for the people who live near the edge cases</text>
     </g>
   </g>
 
   <g opacity="0.55" fill="none" stroke="#5175bf">
     <path d="M720 62 l18 0 l0 18"/>
-    <path d="M100 218 l-18 0 l0 -18"/>
+    <path d="M100 268 l-18 0 l0 -18"/>
   </g>
 </svg>

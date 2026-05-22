@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/bio.svg" />
+  <img src="https://raw.githubusercontent.com/cultlead3r/cultlead3r/main/generated/bio-v2.svg" />
 </p>
 
 <h4 align="center">contact</h4>

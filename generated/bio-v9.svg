@@ -10,6 +10,15 @@
     @media (max-width: 500px) {
       .desktop { display: none; }
       .mobile { display: inline; }
+      /* keep the skyline subtle behind the larger mobile type */
+      .city { opacity: 0.5; }
+    }
+
+    .beacon { animation: blink 2.6s step-end infinite; }
+    @keyframes blink {
+      0%, 100% { fill-opacity: 0.9; }
+      48% { fill-opacity: 0.1; }
+      62% { fill-opacity: 0.9; }
     }
 
     .glitch {
@@ -52,9 +61,58 @@
     <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
       <rect width="4" height="1" fill="#ffffff" opacity="0.045"/>
     </pattern>
+    <clipPath id="frame">
+      <rect width="820" height="330" rx="18"/>
+    </clipPath>
+    <radialGradient id="cityglow">
+      <stop offset="0" stop-color="#d14fff" stop-opacity="0.30"/>
+      <stop offset="0.6" stop-color="#5175bf" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#d14fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cityfade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <mask id="citymask">
+      <rect x="440" y="0" width="380" height="200" fill="url(#cityfade)"/>
+    </mask>
   </defs>
 
   <rect width="820" height="330" rx="18" fill="url(#bg)"/>
+
+  <g class="city" clip-path="url(#frame)">
+    <ellipse cx="650" cy="160" rx="230" ry="90" fill="url(#cityglow)"/>
+    <g mask="url(#citymask)">
+      <path fill="#101826" opacity="0.75" d="M470 160 V118 h24 V96 h20 V128 h22 V74 h26 V112 h20 V88 h28 V136 h18 V60 h30 V104 h24 V80 h22 V124 h26 V46 h28 V116 h20 V160 Z"/>
+      <path fill="#070b13" d="M520 165 V96 h30 V70 h26 V120 h34 V40 h32 V100 h28 V58 h36 V130 h30 V82 h32 V110 h30 V165 Z"/>
+      <path d="M626 40 V18" stroke="#3a4454" stroke-width="1.5"/>
+      <circle class="beacon" cx="626" cy="16" r="2.5" fill="#ff2d6f"/>
+      <path d="M560 30 H770" stroke="url(#signal)" stroke-width="1.5" opacity="0.5"/>
+      <g fill="#00f0ff" opacity="0.55">
+        <rect x="556" y="84" width="4" height="3"/><rect x="566" y="96" width="4" height="3"/>
+        <rect x="622" y="80" width="4" height="3"/>
+        <rect x="660" y="124" width="4" height="3"/>
+        <rect x="676" y="70" width="4" height="3"/><rect x="690" y="82" width="4" height="3"/>
+        <rect x="742" y="94" width="4" height="3"/><rect x="756" y="106" width="4" height="3"/>
+        <rect x="786" y="134" width="4" height="3"/>
+        <rect x="712" y="142" width="4" height="3"/>
+      </g>
+      <g fill="#d14fff" opacity="0.5">
+        <rect x="616" y="52" width="4" height="3"/><rect x="630" y="64" width="4" height="3"/>
+        <rect x="682" y="112" width="4" height="3"/>
+        <rect x="748" y="122" width="4" height="3"/>
+        <rect x="584" y="132" width="4" height="3"/>
+      </g>
+      <g fill="#ffd166" opacity="0.4">
+        <rect x="648" y="112" width="4" height="3"/>
+        <rect x="698" y="98" width="4" height="3"/>
+        <rect x="774" y="122" width="4" height="3"/>
+        <rect x="598" y="142" width="4" height="3"/>
+      </g>
+    </g>
+  </g>
+
   <rect x="1" y="1" width="818" height="328" rx="17" fill="none" stroke="#30363d"/>
   <rect width="820" height="330" rx="18" fill="url(#scanlines)"/>
 

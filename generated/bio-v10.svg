@@ -84,31 +84,36 @@
   <g class="city" clip-path="url(#frame)">
     <ellipse cx="650" cy="160" rx="230" ry="90" fill="url(#cityglow)"/>
     <g mask="url(#citymask)">
-      <path fill="#101826" opacity="0.75" d="M470 160 V118 h24 V96 h20 V128 h22 V74 h26 V112 h20 V88 h28 V136 h18 V60 h30 V104 h24 V80 h22 V124 h26 V46 h28 V116 h20 V160 Z"/>
-      <path fill="#070b13" d="M520 165 V96 h30 V70 h26 V120 h34 V40 h32 V100 h28 V58 h36 V130 h30 V82 h32 V110 h30 V165 Z"/>
-      <path d="M626 40 V18" stroke="#3a4454" stroke-width="1.5"/>
-      <circle class="beacon" cx="626" cy="16" r="2.5" fill="#ff2d6f"/>
-      <path d="M560 30 H770" stroke="url(#signal)" stroke-width="1.5" opacity="0.5"/>
+      <path fill="#101826" opacity="0.75" d="M460 160 V122 h22 V98 h18 V126 h14 l16 -34 l16 34 h14 V72 h20 V108 h22 V86 l12 -14 l12 14 V118 h20 V54 h16 V100 h22 V78 h18 V128 h24 V92 h20 V130 h30 V112 h20 V160 Z"/>
+      <path fill="#070b13" d="M508 165 V112 h5 V100 h20 V112 h5 V140 h8 V84 l14 -16 l14 16 V120 h10 V60 h8 V44 h12 V32 h12 V44 h8 V60 h6 V128 h8 V72 q14 -18 28 0 V108 h10 V64 l24 10 V134 h8 V88 h26 l8 14 V126 h12 V96 h28 V148 h16 V165 Z"/>
+      <path d="M610 32 V14" stroke="#3a4454" stroke-width="1.5"/>
+      <circle class="beacon" cx="610" cy="12" r="2.5" fill="#ff2d6f"/>
+      <path d="M560 26 H770" stroke="url(#signal)" stroke-width="1.5" opacity="0.5"/>
+      <text class="f2" x="607" y="78" text-anchor="middle" font-size="13" fill="#d14fff" opacity="0.75" filter="url(#glow)">
+        <tspan x="607" dy="0">神</tspan>
+        <tspan x="607" dy="15">話</tspan>
+        <tspan x="607" dy="15">機</tspan>
+        <tspan x="607" dy="15">械</tspan>
+      </text>
       <g fill="#00f0ff" opacity="0.55">
-        <rect x="556" y="84" width="4" height="3"/><rect x="566" y="96" width="4" height="3"/>
-        <rect x="622" y="80" width="4" height="3"/>
-        <rect x="660" y="124" width="4" height="3"/>
-        <rect x="676" y="70" width="4" height="3"/><rect x="690" y="82" width="4" height="3"/>
-        <rect x="742" y="94" width="4" height="3"/><rect x="756" y="106" width="4" height="3"/>
-        <rect x="786" y="134" width="4" height="3"/>
-        <rect x="712" y="142" width="4" height="3"/>
+        <rect x="514" y="120" width="4" height="3"/><rect x="524" y="132" width="4" height="3"/>
+        <rect x="552" y="96" width="4" height="3"/><rect x="562" y="108" width="4" height="3"/>
+        <rect x="590" y="84" width="4" height="3"/>
+        <rect x="646" y="90" width="4" height="3"/>
+        <rect x="682" y="84" width="4" height="3"/><rect x="692" y="96" width="4" height="3"/>
+        <rect x="758" y="106" width="4" height="3"/><rect x="770" y="118" width="4" height="3"/>
       </g>
       <g fill="#d14fff" opacity="0.5">
-        <rect x="616" y="52" width="4" height="3"/><rect x="630" y="64" width="4" height="3"/>
-        <rect x="682" y="112" width="4" height="3"/>
-        <rect x="748" y="122" width="4" height="3"/>
-        <rect x="584" y="132" width="4" height="3"/>
+        <rect x="620" y="92" width="4" height="3"/>
+        <rect x="714" y="100" width="4" height="3"/><rect x="728" y="112" width="4" height="3"/>
+        <rect x="660" y="104" width="4" height="3"/>
+        <rect x="530" y="146" width="4" height="3"/>
       </g>
       <g fill="#ffd166" opacity="0.4">
-        <rect x="648" y="112" width="4" height="3"/>
-        <rect x="698" y="98" width="4" height="3"/>
-        <rect x="774" y="122" width="4" height="3"/>
-        <rect x="598" y="142" width="4" height="3"/>
+        <rect x="650" y="118" width="4" height="3"/>
+        <rect x="716" y="128" width="4" height="3"/>
+        <rect x="762" y="132" width="4" height="3"/>
+        <rect x="786" y="154" width="4" height="3"/>
       </g>
     </g>
   </g>

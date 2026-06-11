@@ -59,9 +59,9 @@
       <rect width="820" height="330" rx="18"/>
     </clipPath>
     <radialGradient id="cityglow">
-      <stop offset="0" stop-color="#8b30ff" stop-opacity="0.40"/>
-      <stop offset="0.55" stop-color="#5a1d9e" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#5a1d9e" stop-opacity="0"/>
+      <stop offset="0" stop-color="#5e1ba8" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-color="#3d1270" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#3d1270" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="cityfade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff"/>
@@ -69,29 +69,30 @@
       <stop offset="1" stop-color="#000000"/>
     </linearGradient>
     <mask id="citymask">
-      <rect x="440" y="0" width="380" height="200" fill="url(#cityfade)"/>
+      <rect x="440" y="0" width="380" height="240" fill="url(#cityfade)"/>
     </mask>
   </defs>
 
   <rect width="820" height="330" rx="18" fill="url(#bg)"/>
 
   <g class="city" clip-path="url(#frame)">
-    <ellipse cx="700" cy="80" rx="280" ry="170" fill="url(#cityglow)"/>
+    <ellipse cx="715" cy="100" rx="280" ry="180" fill="url(#cityglow)"/>
     <g mask="url(#citymask)">
-      <path d="M520 0 H820 V26 L560 104 Z" fill="#1c0b30" opacity="0.55"/>
-      <path d="M772 0 H820 V190 L772 210 Z" fill="#2a1244" opacity="0.45"/>
-      <rect x="786" y="26" width="22" height="52" fill="#0c0618" stroke="#b06bff" stroke-opacity="0.35"/>
-      <g stroke="#b06bff" stroke-width="2" opacity="0.3" fill="none">
+      <path d="M520 0 H820 V26 L560 104 Z" fill="#120620" opacity="0.5"/>
+      <path d="M772 0 H820 V190 L772 210 Z" fill="#1d0c33" opacity="0.4"/>
+      <rect x="786" y="26" width="22" height="52" fill="#08030f" stroke="#7b4bb3" stroke-opacity="0.22"/>
+      <g stroke="#7b4bb3" stroke-width="1.5" opacity="0.18" fill="none">
         <path d="M590 56 l44 -30"/>
         <path d="M600 60 l44 -30"/>
       </g>
-      <rect x="678" y="112" width="92" height="98" fill="#040208"/>
-      <rect x="658" y="110" width="132" height="8" fill="#170a26" opacity="0.8"/>
-      <rect x="676" y="110" width="96" height="102" fill="none" stroke="#6b2fb3" stroke-opacity="0.5"/>
-      <rect x="686" y="176" width="76" height="34" fill="#c9b458" opacity="0.12"/>
+      <rect x="700" y="116" width="48" height="116" fill="#000003"/>
+      <rect x="698" y="114" width="52" height="120" fill="none" stroke="#3a1763" stroke-opacity="0.55"/>
+      <rect x="690" y="110" width="68" height="6" fill="#10061d" opacity="0.85"/>
+      <path d="M704 122 V228" stroke="#ff2d6f" stroke-width="1.5" opacity="0.3"/>
+      <ellipse cx="724" cy="232" rx="58" ry="12" fill="#ff2d6f" opacity="0.05"/>
       <g class="sign" filter="url(#glow)">
-        <rect x="668" y="60" width="112" height="46" rx="10" fill="#0a0414" fill-opacity="0.55" stroke="#7db8ff" stroke-width="2.5"/>
-        <text class="f4" x="724" y="93" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" letter-spacing="4" fill="#ff9ad5">OPEN</text>
+        <rect x="694" y="64" width="60" height="34" rx="6" fill="#060210" fill-opacity="0.5" stroke="#6a5fd0" stroke-opacity="0.55" stroke-width="1.5"/>
+        <text class="f4" x="724" y="89" text-anchor="middle" font-size="19" letter-spacing="6" fill="#a66dff" opacity="0.55">入口</text>
       </g>
     </g>
   </g>

@@ -2,6 +2,17 @@
   <title id="title">Profile bio</title>
   <desc id="desc">A dark cyberpunk-styled rendering of the profile bio.</desc>
 
+  <style>
+    /* Media queries in an SVG loaded via img match the image's own rendered
+       width, so this swaps to the large-type layout when GitHub scales the
+       badge down on narrow screens. */
+    .mobile { display: none; }
+    @media (max-width: 500px) {
+      .desktop { display: none; }
+      .mobile { display: inline; }
+    }
+  </style>
+
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#05070c"/>
@@ -36,7 +47,7 @@
     <path d="M738 28 V312" stroke="#d14fff" stroke-width="1" opacity="0.16"/>
   </g>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+  <g class="desktop" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
     <text x="52" y="36" fill="#5175bf" font-size="11" letter-spacing="3" opacity="0.85">SIGNAL // MYTH // MACHINE</text>
     <text x="52" y="74" fill="#e6edf3" font-size="20" font-weight="700">
       <tspan x="52" dy="0">I work in the static between decaying signals</tspan>
@@ -48,6 +59,23 @@
       <text x="68" y="196">— mapping hostile systems</text>
       <text x="68" y="232">— structuring ambiguity across networks, infrastructure, and myth</text>
       <text x="68" y="268">— building tools for those who live near the edge cases</text>
+    </g>
+  </g>
+
+  <g class="mobile" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    <text x="52" y="38" fill="#5175bf" font-size="16" letter-spacing="2" opacity="0.85">SIGNAL // MYTH // MACHINE</text>
+    <text x="52" y="80" fill="#e6edf3" font-size="28" font-weight="700">
+      <tspan x="52" dy="0">I work in the static between decaying</tspan>
+      <tspan x="52" dy="34">signals and collapsing mythologies,</tspan>
+      <tspan x="52" dy="34">where machines have learned to lie.</tspan>
+    </text>
+
+    <g fill="#c9d1d9" font-size="24">
+      <text x="56" y="186">— mapping hostile systems</text>
+      <text x="56" y="216">— structuring ambiguity across networks,</text>
+      <text x="80" y="244">infrastructure, and myth</text>
+      <text x="56" y="274">— building tools for those who live near</text>
+      <text x="80" y="302">the edge cases</text>
     </g>
   </g>
 

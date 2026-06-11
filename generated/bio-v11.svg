@@ -10,15 +10,9 @@
     @media (max-width: 500px) {
       .desktop { display: none; }
       .mobile { display: inline; }
-      /* keep the skyline subtle behind the larger mobile type */
+      /* keep the scene subtle behind the larger mobile type */
       .city { opacity: 0.5; }
-    }
-
-    .beacon { animation: blink 2.6s step-end infinite; }
-    @keyframes blink {
-      0%, 100% { fill-opacity: 0.9; }
-      48% { fill-opacity: 0.1; }
-      62% { fill-opacity: 0.9; }
+      .sign { transform: translate(26px, -22px); }
     }
 
     .glitch {
@@ -65,9 +59,9 @@
       <rect width="820" height="330" rx="18"/>
     </clipPath>
     <radialGradient id="cityglow">
-      <stop offset="0" stop-color="#d14fff" stop-opacity="0.30"/>
-      <stop offset="0.6" stop-color="#5175bf" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#d14fff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8b30ff" stop-opacity="0.40"/>
+      <stop offset="0.55" stop-color="#5a1d9e" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#5a1d9e" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="cityfade" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff"/>
@@ -82,38 +76,22 @@
   <rect width="820" height="330" rx="18" fill="url(#bg)"/>
 
   <g class="city" clip-path="url(#frame)">
-    <ellipse cx="650" cy="160" rx="230" ry="90" fill="url(#cityglow)"/>
+    <ellipse cx="700" cy="80" rx="280" ry="170" fill="url(#cityglow)"/>
     <g mask="url(#citymask)">
-      <path fill="#101826" opacity="0.75" d="M460 160 V122 h22 V98 h18 V126 h14 l16 -34 l16 34 h14 V72 h20 V108 h22 V86 l12 -14 l12 14 V118 h20 V54 h16 V100 h22 V78 h18 V128 h24 V92 h20 V130 h30 V112 h20 V160 Z"/>
-      <path fill="#070b13" d="M508 165 V112 h5 V100 h20 V112 h5 V140 h8 V84 l14 -16 l14 16 V120 h10 V60 h8 V44 h12 V32 h12 V44 h8 V60 h6 V128 h8 V72 q14 -18 28 0 V108 h10 V64 l24 10 V134 h8 V88 h26 l8 14 V126 h12 V96 h28 V148 h16 V165 Z"/>
-      <path d="M610 32 V14" stroke="#3a4454" stroke-width="1.5"/>
-      <circle class="beacon" cx="610" cy="12" r="2.5" fill="#ff2d6f"/>
-      <path d="M560 26 H770" stroke="url(#signal)" stroke-width="1.5" opacity="0.5"/>
-      <text class="f2" x="607" y="78" text-anchor="middle" font-size="13" fill="#d14fff" opacity="0.75" filter="url(#glow)">
-        <tspan x="607" dy="0">神</tspan>
-        <tspan x="607" dy="15">話</tspan>
-        <tspan x="607" dy="15">機</tspan>
-        <tspan x="607" dy="15">械</tspan>
-      </text>
-      <g fill="#00f0ff" opacity="0.55">
-        <rect x="514" y="120" width="4" height="3"/><rect x="524" y="132" width="4" height="3"/>
-        <rect x="552" y="96" width="4" height="3"/><rect x="562" y="108" width="4" height="3"/>
-        <rect x="590" y="84" width="4" height="3"/>
-        <rect x="646" y="90" width="4" height="3"/>
-        <rect x="682" y="84" width="4" height="3"/><rect x="692" y="96" width="4" height="3"/>
-        <rect x="758" y="106" width="4" height="3"/><rect x="770" y="118" width="4" height="3"/>
+      <path d="M520 0 H820 V26 L560 104 Z" fill="#1c0b30" opacity="0.55"/>
+      <path d="M772 0 H820 V190 L772 210 Z" fill="#2a1244" opacity="0.45"/>
+      <rect x="786" y="26" width="22" height="52" fill="#0c0618" stroke="#b06bff" stroke-opacity="0.35"/>
+      <g stroke="#b06bff" stroke-width="2" opacity="0.3" fill="none">
+        <path d="M590 56 l44 -30"/>
+        <path d="M600 60 l44 -30"/>
       </g>
-      <g fill="#d14fff" opacity="0.5">
-        <rect x="620" y="92" width="4" height="3"/>
-        <rect x="714" y="100" width="4" height="3"/><rect x="728" y="112" width="4" height="3"/>
-        <rect x="660" y="104" width="4" height="3"/>
-        <rect x="530" y="146" width="4" height="3"/>
-      </g>
-      <g fill="#ffd166" opacity="0.4">
-        <rect x="650" y="118" width="4" height="3"/>
-        <rect x="716" y="128" width="4" height="3"/>
-        <rect x="762" y="132" width="4" height="3"/>
-        <rect x="786" y="154" width="4" height="3"/>
+      <rect x="678" y="112" width="92" height="98" fill="#040208"/>
+      <rect x="658" y="110" width="132" height="8" fill="#170a26" opacity="0.8"/>
+      <rect x="676" y="110" width="96" height="102" fill="none" stroke="#6b2fb3" stroke-opacity="0.5"/>
+      <rect x="686" y="176" width="76" height="34" fill="#c9b458" opacity="0.12"/>
+      <g class="sign" filter="url(#glow)">
+        <rect x="668" y="60" width="112" height="46" rx="10" fill="#0a0414" fill-opacity="0.55" stroke="#7db8ff" stroke-width="2.5"/>
+        <text class="f4" x="724" y="93" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="26" font-weight="700" letter-spacing="4" fill="#ff9ad5">OPEN</text>
       </g>
     </g>
   </g>

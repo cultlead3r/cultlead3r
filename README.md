@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <sub>for things that live in the <a href="https://github.com/FiloSottile/age">dark</a>:</sub>
+  for things that live in the <a href="https://github.com/FiloSottile/age">dark</a>:
   <br>
   <code>age1yubikey1q05jkau9evs7qnk7rgkm8p0dgdz0v8use4mf63rey60vudv9vdw3zc3nqvh</code>
 </p>

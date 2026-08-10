@@ -20,5 +20,13 @@
 <p align="center">
   for things that live in the <a href="https://github.com/FiloSottile/age">dark</a>:
   <br>
-  <code>age1yubikey1q05jkau9evs7qnk7rgkm8p0dgdz0v8use4mf63rey60vudv9vdw3zc3nqvh</code>
+  <code>age1yubikey1q0003vk470mj6u4pl04lpw2w8w9pg9vvn9ms8l66c3cf45u3gu37y828chn</code>
+</p>
+
+<p align="center">
+  for things that must be <a href="https://cultleader.me/keys">believed</a>:
+  <br>
+  <code>A7B5 D63A 880C B1F2 58BA 522C 6161 8659 5A15 0409</code>
+  <br>
+  <sub><code>gpg --locate-external-keys cultleader@cultleader.me</code></sub>
 </p>

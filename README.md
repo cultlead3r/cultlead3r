@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">
-  for things that must be <a href="https://cultleader.me/keys">believed</a>:
+  for things that must be <a href="https://github.com/cultlead3r.gpg">believed</a>:
   <br>
   <code>A7B5 D63A 880C B1F2 58BA 522C 6161 8659 5A15 0409</code>
   <br>
-  <sub><code>gpg --locate-external-keys cultleader@cultleader.me</code></sub>
+  <sub><code>curl https://github.com/cultlead3r.gpg | gpg --import</code></sub>
 </p>
